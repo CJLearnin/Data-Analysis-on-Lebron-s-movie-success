@@ -1,4 +1,4 @@
-# Data-Analysis-on-Lebron-s-movie-success
+# Data-Analysis-on-Lebron's-movie-success
 <h2>Full report can be found in the word document.</h2>
 
 <p>LeBron’s recent moves to Los Angeles has not only caused a stir in the NBA, but also Hollywood. Movie directors are lining up for the chance to book LeBron in a movie. After LeBron’s historical movie success in train wreck the numbers show LeBron equals box office success. On the other hand, LeBron and his movie agency are looking to create and hire a director to make their own movie. Since this will be LeBron’s first full movie published by his agency he wants the best possibility at success for the movie. LeBron and his team believe that there is no relationship between a movies IMDB score and other variables. the more superstars he hires for his move, the more likely it will be rated higher. </p>
